@@ -87,7 +87,7 @@ shiny::runApp("app.R")
 ![Screen Time vs Mental Health](output/scatter_screentime_mentalhealth.png)
 
 ## 📝 Author
-[Your Name]
+[Ali Sadiq]
 
 ## 📅 Date
 January 2026
